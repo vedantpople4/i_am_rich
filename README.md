@@ -1,7 +1,8 @@
-# iamrich
+# iamrich App
 
 A new Flutter application.
-The I am Rich App was first released on iOS store in the early days of iOS. It was an App that had only a red ruby image in the center. Though it has no productivity the App was priced $999 on the store. So very soon the App had become matter of pride to prove one's wealth by installing this App. The App was placed in the Lifestyle category on the store.
+The I am Rich App was first released on iOS store in the early days of iOS. It was an App that had only a red ruby image in the center. Though it has no productivity the App was priced $999 on the store. So very soon the App had become matter of pride to prove one's wealth by installing this App. The App was placed in the Lifestyle category on the store. The Current App contains a Diamond image in the center
+Scaffold and a Black Appbar.
 
 ## Getting Started
 
